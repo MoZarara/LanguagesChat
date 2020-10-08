@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331499800495",
+    "firebase_url": "https://newlanguageschat.firebaseio.com",
+    "project_id": "newlanguageschat",
+    "storage_bucket": "newlanguageschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331499800495:android:66d9ac0e81c34d7e97d15a",
+        "android_client_info": {
+          "package_name": "com.mo_zarara.newlanguageschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331499800495-mt88ccrasl5nbn5b21n1jgho7dv47ski.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mo_zarara.newlanguageschat",
+            "certificate_hash": "082d7b378ce6b8f3cb376b393666e5a9f5bdd680"
+          }
+        },
+        {
+          "client_id": "331499800495-5oolvq8s6t91pu0tipcbdbvdc6iujm44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrlkc-dCJT0R40b9kyBwgAchqJUC1Wm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331499800495-5oolvq8s6t91pu0tipcbdbvdc6iujm44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NewLanguagesChat_00</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="forget_password">forget password ?</string>
+    <string name="need_new_account">Need new account ?</string>
+    <string name="or_login_using_your">Or login using your</string>
+    <string name="phone">Phone</string>
+    <string name="create_account">Create account</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="update">Update</string>
+    <string name="group_name_intent">groupName</string>
+
+
+    <!--<array name="native_language_array">
+        <item>Native language</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Germany</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </array>
+
+
+    <array name="target_language_array">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Germany</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </array>-->
+
+
+</resources>
